@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://monoblog.me</id>
     <title>MONO BLOG</title>
-    <updated>2021-08-18T09:25:17.974Z</updated>
+    <updated>2021-09-17T06:34:31.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://monoblog.me"/>
     <link rel="self" href="https://monoblog.me/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://monoblog.me/images/avatar.png</logo>
     <icon>https://monoblog.me/favicon.ico</icon>
     <rights>All rights reserved 2021, MONO BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[A Link from the Past...]]></title>
+        <id>https://monoblog.me/post/210917-a-link-from-the-past/</id>
+        <link href="https://monoblog.me/post/210917-a-link-from-the-past/">
+        </link>
+        <updated>2021-09-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>从朋友那儿偷师，有样学样地给自己的博客整了个二重身。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>从朋友那儿偷师，有样学样地给自己的博客整了个二重身。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[试译 | Bob Dylan（一）]]></title>
         <id>https://monoblog.me/post/210812-bob-dylan-lyrics-1/</id>
@@ -108,20 +119,9 @@
         <link href="https://monoblog.me/post/210524-happy-80th-birthday/">
         </link>
         <updated>2021-05-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>涤纶的八十大寿！</p>
+        <summary type="html"><![CDATA[<p>八十大寿！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>涤纶的八十大寿！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西蒙与迪伦 | Simon & Dylan（二）]]></title>
-        <id>https://monoblog.me/post/210422-simon-and-dylan-2/</id>
-        <link href="https://monoblog.me/post/210422-simon-and-dylan-2/">
-        </link>
-        <updated>2021-04-21T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>1964 年春，Paul Simon 离开了纽约，远渡重洋去了欧洲。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>1964 年春，Paul Simon 离开了纽约，远渡重洋去了欧洲。</p>
+        <content type="html"><![CDATA[<p>八十大寿！</p>
 ]]></content>
     </entry>
 </feed>
